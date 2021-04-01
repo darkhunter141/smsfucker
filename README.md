@@ -11,7 +11,7 @@
    $ pip install requests
    ```
    ```
-   $git clone
+   $git clone https://github.com/darkhunter141/smsfucker/
    ```
    ```
    $ cd smsfucker 
@@ -23,7 +23,7 @@
    $ python smsfucker.py
    ```
    ```
-   $ Done ✅
+    Done ✅😊
 ```
 
 This will take too much time it's depends on your data connection. 
