@@ -2,7 +2,6 @@
 
 ## Termux
    ```
-   ```
    $ apt install git 
    ```
    ```
